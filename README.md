@@ -8,4 +8,4 @@ Hi, my name is Dominic London I am a computer science major. My main hope is to 
 
 ## UX Journal
 
-[Navigating through the steam](j01/)
+[Navigating through the Steam](j01/)
