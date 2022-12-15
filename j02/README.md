@@ -10,6 +10,7 @@ I will be focusing on the perspective of a beginner.
 in conjunction with Word, Powerpoint, and Exccel in this case I’m talking about Unity Hub which creates the projects the editor uses, 
 keeps tracks of your project on your computer storage,  which version of the unity editor each project is using, AND which software your unity software can build for. 
 
+![journalBotLeft2Right](https://user-images.githubusercontent.com/Picture0.png)
 <img src="assets/Picture0.png" class="img-responsive" alt="">
 
   For example, unless you have downloaded the MacOS package for unity hub you will not be able to build a game for MacOS 
