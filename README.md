@@ -9,3 +9,4 @@ Hi, my name is Dominic London I am a computer science major. My main hope is to 
 ## UX Journal
 
 [Navigating through the Steam](j01/)
+[My Journey into Unity](j02/)
