@@ -1,4 +1,5 @@
-#My journey into Unity
+#My journey into Unity#
+
   I began my final semester finding out I wanted to take my degree into the video game industry and with that 
 I began my journey of learning the Unity game engine to make use of in my senior computer science capstone and for use in the future. 
 In my journey I have to say the hardest steps of unity are easily the beginning and the end of learning how to make use of the engine. 
