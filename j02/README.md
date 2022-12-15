@@ -10,22 +10,22 @@ I will be focusing on the perspective of a beginner.
 in conjunction with Word, Powerpoint, and Exccel in this case I’m talking about Unity Hub which creates the projects the editor uses, 
 keeps tracks of your project on your computer storage,  which version of the unity editor each project is using, AND which software your unity software can build for. 
 
-<img src="assets/Picture1.png" class="img-responsive" alt="">
+<img src="assets/Picture0.png" class="img-responsive" alt="">
 
   For example, unless you have downloaded the MacOS package for unity hub you will not be able to build a game for MacOS 
 and this is for every version of editor you have installed which could easily be done by asking at the start of the project 
 what systems you intend to develop for. If you are tech have the prior knowledge this won’t be confusing but considering much of
 Unity’s users are new and upcoming developers, this can be a lot to take in all at once.
 
-<img src="assets/Picture2.png" class="img-responsive" alt="">
+<img src="assets/Picture1.png" class="img-responsive" alt="">
 
-<img src="assets/Picture3.png" class="img-responsive" alt="">
+<img src="assets/Picture2.png" class="img-responsive" alt="">
 
   That was all Unity Hub the manager for the editor itself is a different ball game and where a lot learning as you go begins unless
 you watch tutorials on how to make use of the editor and inspector of the software and realistically speaking unless you have the 
 time you are going to make use of a tutorial of teacher like I did.
 
-<img src="assets/Picture4.png" class="img-responsive" alt="">
+<img src="assets/Picture3.png" class="img-responsive" alt="">
 
   Above is a snapshot of my capstone project and general layout to the very left is the hierarchy tab which shows the general sorting of the 
 game objects within the given scene you are working on. To the right of the hierarchy tab is the scene tab and to the right of that is the game tab. 
